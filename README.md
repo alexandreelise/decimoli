@@ -7,6 +7,24 @@
 ### Description:
 Recursive function to compute patterns of decimal places when denominator is a repetition of 1 or more '3' and that the numerator is not divisible by the denominator. The decimal places "pattern" has as much digits than the denominator and repeats itself many times. I can't prove it yet but hopefully someone has already found this fun math puzzle
 
+### Usage:
+
+```shell
+
+APP_NUMERATOR=475 /usr/bin/php8.0 index.php
+
+```
+You can choose the numerator you like. It must be a positive integer and
+it must not be divisible by 3
+
+--------------------------------------------
+
+### Result:
+
+Here the screenshot of the result:
+
+![Alex Lab Decimoli Experiment](alexlab-decimoli-math-puzzle-screenshot.png)
+
 
 --------------------------------------------
 ## INFOS
